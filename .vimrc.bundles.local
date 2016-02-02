@@ -1,0 +1,4 @@
+Bundle 'pydiction'
+Bundle 'swaroopch/vim-markdown-preview'
+Bundle 'jceb/vim-orgmode'
+Bundle 'tpope/vim-speeddating'
